@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Events_per_account.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/create_event.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/event_vs_time.sql" dialect="PostgreSQL" />
+  </component>
+</project>
